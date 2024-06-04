@@ -1,0 +1,23 @@
+.rgd{
+    background-color: black;
+    
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 700px;
+}
+
+button{
+    margin-left: 750px;
+}
+
+.answer{
+    padding-top: 30px;
+    margin-left: 740px; 
+    
+}
+
+body{
+    background-image: linear-gradient(rgb(0, 179, 255),rgb(9, 116, 198),blue);
+}
